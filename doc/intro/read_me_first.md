@@ -1,4 +1,4 @@
-## READ ME FIRST
+# Before Hosting a Cluster...
 
 
 
@@ -22,7 +22,7 @@ There are two main areas you are going to need to learn when you dive into **Kaz
   * RabbitMQ
 3. Client DNS Mapping
 
-The **Kazoo UI** & APIs may take you a few weeks to become familiar with. The back-end will probably take a bit longer.
+**Monster UI** & APIs may take you a few weeks to become familiar with. The back-end will probably take a bit longer.
 
 We've structured things so you can start out on our hosted platform. It's inexpensive and it lets you get to know the system prior to diving into the deep end and trying to run it all yourself. There's enough to learn in the system as-is! You can customize the entire experience for your customers while using our hardened hosted system and you can move your customers seamlessly when you are ready to manage your own infrastructure.
 

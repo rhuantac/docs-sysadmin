@@ -12,19 +12,19 @@ Happen to have deep pockets? We are always looking for feature sponsors and are 
  
 ### Give me code, or give me death!
 
-## **Kazoo** Git Repo: 
+## Kazoo Git Repo: 
 
     git clone 
     https://github.com/2600hz/kazoo.git
 
 
-## **Kazoo UI** Git Repo:
+## Monster UI Git Repo:
 
     git clone 
-    https://github.com/2600hz/kazoo_ui.git
+    https://github.com/2600hz/monster-ui.git
 
 
-##  **FreeSWITCH** - custom build:
+## FreeSWITCH - custom build:
     
     git clone 
     https://github.com/2600hz/FreeSWITCH.git

@@ -165,11 +165,11 @@ $ curl -v -k https://api.2600hz.com:8443/v1/accounts`
 You should now be able to interact with your APIs via `port 8443`, and have the communication protected from endpoint to server and vice versa. You can optionally disable the plaintext API server if you only want your APIs accessible via SSL. Edit the **Crossbar** doc in the `system_config` database, toggling `use_plaintext` from `true` to `false`. The next time **Crossbar** is started, only the SSL API server should start.
 
 
-## Securing **Kazoo UI**
+## Securing Monster UI
 
 Now that you've configured **Crossbar** to serve requests via SSL, it is important to have your GUI access the APIs over the secured connections. Here we go!
 
-Edit the `kazoo_ui/config/config.js`
+Edit the `/var/www/html/monster-ui/js/config.js`
 Replace `port 8000` with `8443`
 Replace `http://` with `https://`
 

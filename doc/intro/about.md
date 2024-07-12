@@ -1,4 +1,4 @@
-## Intro
+# Telecom Basics
 
 When most people talk about a phone line, they are actually (unknowingly) referring to a package of services provided by their local phone company. This package is actually put together from independent services. Each service is often provided from a different server, service or in some cases a completely external service provider, but to make things easy for customers all the services are packaged and sold together. This makes marketing and sales simpler.
 

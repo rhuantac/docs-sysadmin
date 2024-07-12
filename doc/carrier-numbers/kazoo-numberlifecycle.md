@@ -1,8 +1,4 @@
-## Number Lifecycle
-
-
-
-## Number Lifecycle
+# Number Lifecycle
 
 This document describes the lifecycle of direct inward dialing (DID) numbers.
 

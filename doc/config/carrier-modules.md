@@ -1,4 +1,4 @@
-## Configuration Document
+# Configuration Document
 
 
 
@@ -127,7 +127,7 @@ Classifiers are attempted from the top of the list to the bottom. Like `e164_con
 
 `regex`: If a number matches this regular expression then it is considered to be classified as the properties name (UNIQUE_NAME). Capture groups can be used to make your expression cleaner but will have no impact on the number.
 
-`friendly_name`: This is the name presented to users of the Kazoo UI when viewed in the number manager or on the permission tab. If a friendly name is not provided the `UNIQUE_NAME` of the classifier is used.
+`friendly_name`: This is the name presented to users of the **Monster UI** when viewed in the number manager or on the permission tab. If a friendly name is not provided the `UNIQUE_NAME` of the classifier is used.
 
 `pretty_print`: This is a way to change the format of numbers matching the classifier in emails sent by **Kazoo**, such as voicemail notifications. Prior to pretty printing a number it will be normalized via the e164_converters to ensure it is in a known format.
 The following characters can be used in a pretty print string to manipulate the number:

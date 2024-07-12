@@ -1,8 +1,8 @@
-## Optimize Kazoo UI
+# Optimize Monster UI
 
 
 
-How to optimize **Kazoo UI**?
+How to optimize **Monster UI**?
 
 
 The optimizer will reduce the size, obfuscate and reformat all the CSS and JS file in the project 
@@ -84,7 +84,7 @@ If you want to get more information about what option is used for what I recomme
 
 ## Execution
 
-Let's say that you have put the optimizer file `r.js` and your build file `build.js` in a folder at the same level than the **Kazoo UI** folder. The command that you will need to execute is the following one:
+Let's say that you have put the optimizer file `r.js` and your build file `build.js` in a folder at the same level than the **Monster UI** folder. The command that you will need to execute is the following one:
 
     node r.js -o build.js
 

@@ -1,8 +1,6 @@
-## Store and Forward (T.37)
+# Store and Forward (T.37)
 
- 
-
-##Ways to transmit a Fax over IP:
+ Ways to transmit a Fax over IP:
 
 
 ## PCMU

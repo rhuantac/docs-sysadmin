@@ -1,14 +1,12 @@
-## Numbers Document
+# Account Number Document
 
-
-
-The numbers document is only used by the APIs to list numbers and has no impact on routing.  It exists to reduce the overhead of the `phone_number` API so every number database does not need to be scanned to determine which numbers are active on an account.
+Kazoo saves a copy of the number document from the Number's database into the account's database. This number document is only used by the APIs to list numbers and has no impact on routing inbound calls from a carrier.  It exists to reduce the overhead of the `phone_number` API so every number database does not need to be scanned to determine which numbers are active on an account.
 The number document is the only document used for routing, however if you are making changes to this document you should ensure they reflect the number document or the user may be confused by conflicting information in the UI.
 
 
 ## Database
 
-Numbers document are stored in account databases with the id "phone_numbers".
+Number document are stored in account databases with the id "phone_numbers".
 
 
 ## Base Parameters

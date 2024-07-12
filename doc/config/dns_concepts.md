@@ -1,4 +1,4 @@
-## DNS Concepts
+# DNS Concepts
 
 
 

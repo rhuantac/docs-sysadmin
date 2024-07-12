@@ -1,4 +1,4 @@
-## Getting to Know BigCouch
+# Getting to Know BigCouch
 
 
 
